@@ -1,15 +1,14 @@
 {
-   "Available days": ["Saturday", "Monday", "Tuesday", "Friday"],
+   "Available days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
    "Monday":[
-      "1700-1800",
       "1800-1900",
       "1900-2000",
       "2000-2100"
    ],
    "Tuesday":[
-      "1700-1800",
       "1800-1900",
-      "1900-2000"
+      "1900-2000",
+      "2000-2100"
    ],
    "Wednesday":[
       "1800-1900",
@@ -17,6 +16,7 @@
       "2000-2100"
    ],
    "Thursday":[
+      "1800-1900",
       "1900-2000",
       "2000-2100"
    ],
