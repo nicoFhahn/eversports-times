@@ -1,5 +1,5 @@
 {
-   "Available days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Sunday"],
+   "Available days": ["Monday", "Tuesday", "Wednesday", "Thursday"],
    "Monday":[
       "1700-1800",
       "1800-1900",
